@@ -1,4 +1,4 @@
 # Nepal-demo
 This is my first repository
-<b/r>
+<br>
 Author-Hirendra mitra saday
